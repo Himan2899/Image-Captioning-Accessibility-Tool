@@ -80,5 +80,4 @@ If this project helped you, please give it a ⭐️ on GitHub!
 
 </div>
 
-### Application Interface
 
