@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+venv_py310/
+venv_clean/
+env/
+ENV/
+virtualmouse/
+
+# Hugging Face cache and models (IMPORTANT!)
+.cache/
+models/
+*.bin
+*.safetensors
+*.msgpack
+*.h5
+*.ot
+
+# Conda
+.conda/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large model files
+model.safetensors
+pytorch_model.bin
+tf_model.h5
